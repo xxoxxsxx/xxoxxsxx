@@ -48,17 +48,6 @@
 **亮点**：流畅虚拟列表、键盘快捷键、单实例复用、高效图像加载  
 ![Stars](https://img.shields.io/github/stars/xxoxxsxx/lume?style=flat-square&color=58A6FF)
 
-#### [xxoxxsxx-skills](https://github.com/xxoxxsxx/xxoxxsxx-skills)
-AI 相关技能整理与全栈实践仓库，包含后端逻辑、模型集成与实际项目落地。
-
-![Stars](https://img.shields.io/github/stars/xxoxxsxx/xxoxxsxx-skills?style=flat-square&color=58A6FF)
-
-#### [WechatReaderExport](https://github.com/xxoxxsxx/WechatReaderExport)
-微信读书笔记导出工具，**TypeScript 全栈实现** 数据解析、处理与导出流程。
-
-**亮点**：可靠的笔记提取、一键导出、格式化处理  
-![Stars](https://img.shields.io/github/stars/xxoxxsxx/WechatReaderExport?style=flat-square&color=58A6FF)
-
 #### [offline-qr-generator](https://github.com/xxoxxsxx/offline-qr-generator)
 纯 HTML + JS 实现的离线二维码生成工具，注重隐私与本地安全。
 
